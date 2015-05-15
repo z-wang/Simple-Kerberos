@@ -1,3 +1,9 @@
 implement simple kerberos service
 ==
 two-way authendication for kerberos server and clients, kerberos server and public services and clients and public services.
+
+All clients and public services (-> users) needed to be registered in Kerberos server (contains auth service and ticket granting service).
+
+process:
+1. client to kerberos(AS) : 
+  REQUEST: KRB_AS_REQ
