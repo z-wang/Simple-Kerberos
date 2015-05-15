@@ -1,0 +1,3 @@
+implement simple kerberos service
+==
+two-way authendication for kerberos server and clients, kerberos server and public services and clients and public services.
